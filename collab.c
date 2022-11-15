@@ -21,6 +21,12 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
+void nlaka2_Ikhan54() {
+  printf("Nilufar Lakada and Imran Khan\n");
+  printf("Nilufar: adding .txt files require -f (force removal)!\n");
+  printf("Imran: its so cool how we can code on the same respository at the same time");
+}
+
 int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
